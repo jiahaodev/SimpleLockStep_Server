@@ -1,0 +1,3 @@
+[submodule "Battle"]
+	path = Battle
+	url = https://github.com/jiahaodev/SimpleLockStep_Common.git
